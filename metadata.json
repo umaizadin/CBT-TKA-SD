@@ -1,0 +1,6 @@
+{
+  "name": "CBT TKA Online - Tes Kemampuan Akademik",
+  "description": "Aplikasi CBT Tes Kemampuan Akademik (TKA) multi-gadget dengan monitoring waktu pengerjaan real-time dan penilaian otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
